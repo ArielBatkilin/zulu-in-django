@@ -8,8 +8,9 @@ installation:
 5. enter the site: http://localhost:8000/
 enjoy
 
-run the line:
-echo "from django.contrib.auth.models import User; User.objects.create_superuser('myadmin', 'myemail@example.com', 'hunter2')" | python manage.py shell
-to create a user for the admin site with
-username: myadmin
-password: hunter2
+-run the line:
+-echo "from django.contrib.auth.models import User; User.objects.create_superuser('myadmin', 'myemail@example.com', 'hunter2')" | python manage.py shell
+-to create a user for the admin site with:
+
+-username: myadmin
+-password: hunter2
