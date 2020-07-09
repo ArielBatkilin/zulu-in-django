@@ -1,0 +1,27 @@
+
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.4 3079d8ea",
+  "osm3s": {
+    "timestamp_osm_base": "2018-11-09T22:06:02Z",
+    "timestamp_areas_base": "2018-11-09T21:26:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 358728152,
+      "lat": 25.8478742,
+      "lon": -80.1958809,
+      "tags": {
+        "ele": "2",
+        "gnis:county_id": "086",
+        "gnis:created": "08/28/1987",
+        "gnis:feature_id": "303619",
+        "gnis:state_id": "12",
+        "name": "Autozone",
+        "shop": "car_parts"
+      }
+    }
+  ]
+}

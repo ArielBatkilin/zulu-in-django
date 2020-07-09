@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Nearby points</title>
+    </head>
+<body>
+    <button onclick="window.location.href='http://localhost:8000/map/';">
+      lets see the map
+    </button>
+    <h1>To add a point go to the admin site</h1>
+    <button onclick="window.location.href='http://localhost:8000/admin/';">
+      admin site
+    </button>
+    <h1>Nearby points</h1>
+    {% if zulu %}
+    <ul>
+    {% for point in zulu %}
+        <li>
+        {{ point.name }}: {{point.distance}} , {{point.discription}}
+        </li>
+    {% endfor %}
+    </ul>
+    {% endif %}
+</body>
+</html>
+
+
+<!--       <form action="http://localhost:8000/addPoint">
+         <button type="submit">add points</button>
+      </form> -->
+

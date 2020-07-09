@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="571f01b8-68f3-4cd4-a11b-94e974f93a5d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../CHANGES" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COPYRIGHT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MANIFEST.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docs/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docs/advanced.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docs/conf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docs/index.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docs/installation.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docs/make.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docs/templates.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docs/widget.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../env/src/django-leaflet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../env/src/pip-delete-this-directory.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example/README.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example/mushrooms/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example/mushrooms/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example/mushrooms/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example/mushrooms/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example/mushrooms/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example/mushrooms/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example/mushrooms/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example/mushrooms/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example/mushrooms/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/forms/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/forms/fields.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/forms/widgets.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/locale/ar/LC_MESSAGES/django.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/locale/cs/LC_MESSAGES/django.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/locale/cs/LC_MESSAGES/django.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/locale/de/LC_MESSAGES/django.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/locale/de/LC_MESSAGES/django.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/locale/es/LC_MESSAGES/django.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/locale/es/LC_MESSAGES/django.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/locale/fr/LC_MESSAGES/django.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/locale/fr/LC_MESSAGES/django.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/locale/he/LC_MESSAGES/django.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/locale/he/LC_MESSAGES/django.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/locale/hu/LC_MESSAGES/django.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/locale/hu/LC_MESSAGES/django.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/locale/it/LC_MESSAGES/django.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/locale/it/LC_MESSAGES/django.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/locale/ru/LC_MESSAGES/django.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/locale/ru/LC_MESSAGES/django.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/locale/sk/LC_MESSAGES/django.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/locale/sk/LC_MESSAGES/django.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/static/leaflet/Control.MiniMap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/static/leaflet/Control.MiniMap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/static/leaflet/draw/images/layers-2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/static/leaflet/draw/images/layers.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/static/leaflet/draw/images/marker-icon-2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/static/leaflet/draw/images/marker-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/static/leaflet/draw/images/marker-shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/static/leaflet/draw/images/spritesheet-2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/static/leaflet/draw/images/spritesheet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/static/leaflet/draw/images/spritesheet.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/static/leaflet/draw/leaflet.draw-src.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/static/leaflet/draw/leaflet.draw-src.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/static/leaflet/draw/leaflet.draw-src.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/static/leaflet/draw/leaflet.draw.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/static/leaflet/draw/leaflet.draw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/static/leaflet/images/layers-2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/static/leaflet/images/layers.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/static/leaflet/images/marker-icon-2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/static/leaflet/images/marker-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/static/leaflet/images/marker-icon@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/static/leaflet/images/marker-shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/static/leaflet/images/reset-view.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/static/leaflet/images/toggle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/static/leaflet/images/zoom-in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/static/leaflet/images/zoom-out.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/static/leaflet/leaflet-src.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/static/leaflet/leaflet-src.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/static/leaflet/leaflet-src.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/static/leaflet/leaflet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/static/leaflet/leaflet.extras.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/static/leaflet/leaflet.forms.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/static/leaflet/leaflet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/static/leaflet/leaflet.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/static/leaflet/proj4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/static/leaflet/proj4leaflet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/templates/leaflet/_leaflet_draw_i18n.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/templates/leaflet/_leaflet_map.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/templates/leaflet/admin/widget.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/templates/leaflet/css.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/templates/leaflet/js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/templates/leaflet/widget.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/templatetags/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/templatetags/leaflet_tags.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/tests/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/tests/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/tests/test.extras.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/tests/test.forms.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/tests/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leaflet/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quicktest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../setup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tox.ini" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1eRepdTypw4UMcpEztxv4kz76rS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="571f01b8-68f3-4cd4-a11b-94e974f93a5d" name="Default Changelist" comment="" />
+      <created>1594289016364</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594289016364</updated>
+      <workItem from="1594289017551" duration="358000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1235" y="300" width="424" height="520" key="FileChooserDialogImpl" timestamp="1594289366974">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="1235" y="300" width="424" height="520" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1594289366974" />
+  </component>
+</project>
