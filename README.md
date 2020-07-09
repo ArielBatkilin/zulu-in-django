@@ -6,11 +6,11 @@ installation:
 3. install the requirements file
 4. do $python manage.py runserver
 5. enter the site: http://localhost:8000/
-enjoy
+6. enjoy
 
-6. run the line:
-7. echo "from django.contrib.auth.models import User; User.objects.create_superuser('myadmin', 'myemail@example.com', 'hunter2')" | python manage.py shell
-8. to create a user for the admin site with:
+7. run the line:
+9. echo "from django.contrib.auth.models import User; User.objects.create_superuser('myadmin', 'myemail@example.com', 'hunter2')" | python manage.py shell
+9. to create a user for the admin site with:
 
-9. username: myadmin
-10. password: hunter2
+10. username: myadmin
+11. password: hunter2
