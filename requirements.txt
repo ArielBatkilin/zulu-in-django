@@ -1,5 +1,5 @@
 asgiref==3.2.10
-Django==3.0.8
+Django==3.0.12
 django-geojson==3.0.0
 -e git+https://github.com/makinacorpus/django-leaflet.git@5e5aa1f6be69bc1ac2952270ea62b57b304acfea#egg=django_leaflet
 jsonfield==3.1.0
